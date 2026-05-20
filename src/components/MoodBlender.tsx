@@ -409,7 +409,7 @@ export default function MoodBlender({ soundEnabled }: MoodBlenderProps) {
   };
 
   return (
-    <div className={`flex-grow flex flex-col justify-between p-4.5 transition-colors duration-300 cottage-grid relative rounded-t-3xl overflow-y-auto ${
+    <div className={`flex-grow flex flex-col justify-between p-4.5 transition-colors duration-300 cottage-grid relative overflow-y-auto ${
       isAlchemistDark ? "bg-[#2a1c12] text-[#ebdcc2]" : "bg-[#fdfbf6] text-[#5c4e3c]"
     }`}>
       
