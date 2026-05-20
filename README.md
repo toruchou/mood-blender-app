@@ -16,4 +16,11 @@ To run the project locally, just run these standard commands in your terminal:
 
 ```bash
 npm install
+
 npm run build
+
+npx cap add android
+
+npx cap sync android
+
+npx cap open android
