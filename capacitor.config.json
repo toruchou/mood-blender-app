@@ -1,0 +1,6 @@
+{
+  "appId": "com.toru.moodblender",
+  "appName": "Mood Blender",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
